@@ -122,6 +122,10 @@ Data cleaning · PivotTables & PivotCharts · Slicers · Dashboard design · Bus
 
 ---
 
+## Architecture Diagram
+![Vrinda Store Architecture](diagram%20(8).png)
+
+
 **Author:** Astha Kumari Jha
 **GitHub:** [github.com/Asthajha4275](https://github.com/Asthajha4275)# Excel-Project_ VRINDA STORE DATA ANALYSIS.
 DASHBOARD:
